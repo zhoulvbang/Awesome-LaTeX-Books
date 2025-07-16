@@ -13,6 +13,7 @@ This is a collection of LaTeX books and projects, including both Chinese and Eng
   - [Thesis](#thesis)
   - [CV](#cv)
   - [Beamer](#beamer)
+  - [Poster](#poster)
 
 ## Online-Platform-for-Using-LaTeX
 
@@ -43,3 +44,5 @@ This is a collection of LaTeX books and projects, including both Chinese and Eng
 
 1. [Metropolis](https://github.com/matze/mtheme)🔥🔥🔥🔥🔥
 2. [The Ultimate Beamer Theme List](https://github.com/martinbjeldbak/ultimate-beamer-theme-list)
+
+## Poster
